@@ -1,0 +1,3 @@
+package com.example.trackmysleepquality.database
+
+interface SleepDatabaseDao
